@@ -23,8 +23,19 @@
       "default": false,
       "versionDescription": "",
       "dependencies": [
-        {"package": "campaign", "versionNumber": "0.1.0.LATEST" }
+        {
+          "package": "campaign",
+          "versionNumber": "0.1.0.LATEST"
+        }
       ]
+    },
+    {
+      "path": "cmt-picklist-field",
+      "package": "cmt-picklist-field",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
     }
   ],
   "namespace": "",
@@ -37,7 +48,7 @@
     "DreamhouseLWC@55.0.0-25": "04t3h000004mB2TAAU",
     "DreamhouseLWC@55.0.0-29": "04t3h000004mBEHAA2",
     "campaign": "0Ho09000000oMGqCAM",
-    "campaign@0.1.0-1":"04t090000003oDwAAI",
-    "campaign-field": "0Ho09000000oMGvCAM"
+    "campaign-field": "0Ho09000000oMGvCAM",
+    "cmt-picklist-field": "0Ho09000000oMH0CAM"
   }
 }
