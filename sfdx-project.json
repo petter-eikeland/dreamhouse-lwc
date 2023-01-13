@@ -40,6 +40,7 @@
   ],
   "namespace": "",
   "sourceApiVersion": "55.0",
+  "pushPackageDirectoriesSequentially": true,
   "packageAliases": {
     "DreamhouseLWC": "0Ho3h000000PBghCAG",
     "DreamhouseLWC@55.0.0-3": "04t3h000004sq5YAAQ",
