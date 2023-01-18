@@ -10,5 +10,16 @@
         "mobileSettings": {
             "enableS1EncryptedStoragePref2": false
         }
+    },
+    "objectSettings": {
+        "account": {
+            "defaultRecordType": "Administrative"
+        },
+        "case": {
+            "defaultRecordType": "default"
+        },
+        "event": {
+            "defaultRecordType": "default"
+        }
     }
 }
