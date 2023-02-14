@@ -10,9 +10,9 @@
     {
       "path": "campaign",
       "package": "campaign",
-      "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
       "default": false,
+      "versionName": "1",
       "versionDescription": ""
     },
     {
@@ -21,6 +21,7 @@
       "versionNumber": "0.1.0.NEXT",
       "default": false,
       "versionDescription": "",
+      "versionName": "1",
       "dependencies": [
         {
           "package": "campaign",
@@ -38,7 +39,7 @@
     }
   ],
   "namespace": "",
-  "sourceApiVersion": "55.0",
+  "sourceApiVersion": "57.0",
   "pushPackageDirectoriesSequentially": true,
   "packageAliases": {
     "DreamhouseLWC": "0Ho3h000000PBghCAG",
@@ -49,6 +50,12 @@
     "DreamhouseLWC@55.0.0-29": "04t3h000004mBEHAA2",
     "campaign": "0Ho09000000oMGqCAM",
     "campaign-field": "0Ho09000000oMGvCAM",
-    "cmt-picklist-field": "0Ho09000000oMH0CAM"
+    "cmt-picklist-field": "0Ho09000000oMH0CAM",
+    "campaign@0.1.0-2": "04t090000003oNNAAY",
+    "campaign-field@0.1.0-2": "04t090000003oNSAAY",
+    "campaign@0.1.0-3": "04t090000003oNXAAY",
+    "campaign@0.1.0-4": "04t090000003oVsAAI",
+    "campaign-field@0.1.0-3": "04t090000003oVxAAI",
+    "campaign@0.1.0-5": "04t090000003oo0AAA"
   }
 }
