@@ -1,7 +1,7 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app",
+      "path": "default",
       "default": true,
       "package": "DreamhouseLWC",
       "versionName": "Summer '22",
@@ -36,16 +36,24 @@
       "versionNumber": "0.1.0.NEXT",
       "default": false,
       "versionDescription": ""
+    },
+    {
+      "path": "ignored-retrieve-bug",
+      "package": "ignored-retrieve-bug",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": "Trying to recreate ignored files retrieve bug"
     }
   ],
   "namespace": "",
-  "sourceApiVersion": "57.0",
+  "sourceApiVersion": "56.0",
   "pushPackageDirectoriesSequentially": true,
   "packageAliases": {
     "archive-language-bug": "0Ho5j000000TNNBCA4",
     "archive-language-bug-field": "0Ho5j000000TNNBCA4",
     "campaign": "0Ho09000000oMGqCAM",
     "campaign-field": "0Ho09000000oMGvCAM",
-    "cmt-picklist-field": "0Ho09000000oMH0CAM"
+    "ignored-retrieve-bug": "0Ho09000000blpsCAA"
   }
 }
