@@ -44,6 +44,10 @@
       "versionNumber": "0.1.0.NEXT",
       "default": false,
       "versionDescription": "Trying to recreate ignored files retrieve bug"
+    },
+    {
+      "path": "issues/mass-quick-action-bug",
+      "default": false
     }
   ],
   "namespace": "",
