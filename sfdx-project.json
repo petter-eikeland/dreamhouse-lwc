@@ -8,7 +8,7 @@
       "versionNumber": "55.0.0.NEXT"
     },
     {
-      "path": "campaign",
+      "path": "issues/campaign",
       "package": "campaign",
       "versionNumber": "0.1.0.NEXT",
       "default": false,
@@ -16,7 +16,7 @@
       "versionDescription": ""
     },
     {
-      "path": "campaign-field",
+      "path": "issues/campaign-field",
       "package": "campaign-field",
       "versionNumber": "0.1.0.NEXT",
       "default": false,
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "path": "cmt-picklist-field",
+      "path": "issues/cmt-picklist-field",
       "package": "cmt-picklist-field",
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
@@ -38,7 +38,7 @@
       "versionDescription": ""
     },
     {
-      "path": "ignored-retrieve-bug",
+      "path": "issues/ignored-retrieve-bug",
       "package": "ignored-retrieve-bug",
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
