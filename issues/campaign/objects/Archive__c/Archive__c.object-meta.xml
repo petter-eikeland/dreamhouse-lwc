@@ -163,4 +163,5 @@
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
+    <startsWith>Vowel</startsWith>
 </CustomObject>
