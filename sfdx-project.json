@@ -67,7 +67,7 @@
     }
   ],
   "namespace": "",
-  "sourceApiVersion": "58.0",
+  "sourceApiVersion": "59.0",
   "pushPackageDirectoriesSequentially": true,
   "packageAliases": {
     "archive-language-bug": "0Ho5j000000TNNBCA4",
