@@ -48,6 +48,22 @@
     {
       "path": "issues/mass-quick-action-bug",
       "default": false
+    },
+    {
+      "path": "issues/custom-metadata-package-lock-bug/cmt-base",
+      "package": "cmt-base",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
+    },
+    {
+      "path": "issues/custom-metadata-package-lock-bug/cmt-record",
+      "package": "cmt-record",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
     }
   ],
   "namespace": "",
@@ -58,6 +74,8 @@
     "archive-language-bug-field": "0Ho5j000000TNNBCA4",
     "campaign": "0Ho09000000oMGqCAM",
     "campaign-field": "0Ho09000000oMGvCAM",
-    "ignored-retrieve-bug": "0Ho09000000blpsCAA"
+    "ignored-retrieve-bug": "0Ho09000000blpsCAA",
+    "cmt-base": "0Ho09000000PBDwCAO",
+    "cmt-record": "0Ho09000000PBE1CAO"
   }
 }
