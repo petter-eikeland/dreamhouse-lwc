@@ -63,7 +63,13 @@
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
       "default": false,
-      "versionDescription": ""
+      "versionDescription": "",
+      "dependencies": [
+        {
+          "package": "cmt-base",
+          "versionNumber": "0.1.0.LATEST"
+        }
+      ]
     }
   ],
   "namespace": "",
