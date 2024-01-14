@@ -87,10 +87,23 @@
       "versionNumber": "0.1.0.NEXT",
       "default": false,
       "versionDescription": ""
+    },
+    {
+      "path": "issues/custom-metadata-package-lock-bug/cmt-record",
+      "package": "cmt-base2",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
+    },
+    {
+      "path": "issues/exclamation-ignore-bug",
+      "package": "exclamation-ignore-bug",
+      "versionNumber": "1.0.0.NEXT"
     }
   ],
   "namespace": "",
-  "sourceApiVersion": "59.0",
+  "sourceApiVersion": "60.0",
   "pushPackageDirectoriesSequentially": true,
   "packageAliases": {
     "archive-language-bug": "0Ho5j000000TNNBCA4",
@@ -98,9 +111,10 @@
     "campaign": "0Ho09000000oMGqCAM",
     "campaign-field": "0Ho09000000oMGvCAM",
     "ignored-retrieve-bug": "0Ho09000000blpsCAA",
-    "cmt-base": "0Ho09000000PBDwCAO",
+    "cmt-base": "0Ho09000000PBEGCA4",
     "cmt-record": "0Ho09000000PBE1CAO",
     "profile-package": "0Ho09000000PBE6CAO",
-    "non-profile-package": "0Ho09000000PBEBCA4"
+    "non-profile-package": "0Ho09000000PBEBCA4",
+    "cmt-base2": "0Ho09000000PBEGCA4"
   }
 }
