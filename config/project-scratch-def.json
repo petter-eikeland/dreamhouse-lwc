@@ -9,6 +9,12 @@
         },
         "mobileSettings": {
             "enableS1EncryptedStoragePref2": false
+        },
+        "userManagementSettings": {
+            "permsetsInFieldCreation": true,
+            "enableNewProfileUI": true,
+            "userAccessPoliciesEnabled": true,
+            "enableEnhcUiUserAccessPolicies": true
         }
     },
     "objectSettings": {
