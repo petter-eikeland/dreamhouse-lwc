@@ -2,13 +2,18 @@
     "orgName": "Dreamhouse",
     "edition": "Enterprise",
     "language": "en_US",
-    "features": ["Walkthroughs", "EnableSetPasswordInApi"],
+    "features": [
+        "StateAndCountryPicklist"
+    ],
     "settings": {
         "lightningExperienceSettings": {
             "enableS1DesktopEnabled": true
         },
         "mobileSettings": {
             "enableS1EncryptedStoragePref2": false
+        },
+        "languageSettings": {
+            "enableTranslationWorkbench": true
         },
         "userManagementSettings": {
             "permsetsInFieldCreation": true,

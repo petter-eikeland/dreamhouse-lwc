@@ -1,7 +1,7 @@
 {
   "packageDirectories": [
     {
-      "path": "default",
+      "path": "force-app",
       "default": true,
       "package": "DreamhouseLWC",
       "versionName": "Summer '22",
@@ -100,6 +100,12 @@
       "path": "issues/exclamation-ignore-bug",
       "package": "exclamation-ignore-bug",
       "versionNumber": "1.0.0.NEXT"
+    },
+    {
+      "package": "named-credential-namespace-access-bug",
+      "path": "issues/named-credential-namespace-access-bug",
+      "scopeProfiles": true,
+      "versionNumber": "1.0.0.NEXT"
     }
   ],
   "namespace": "",
@@ -115,6 +121,8 @@
     "cmt-record": "0Ho09000000PBE1CAO",
     "profile-package": "0Ho09000000PBE6CAO",
     "non-profile-package": "0Ho09000000PBEBCA4",
-    "cmt-base2": "0Ho09000000PBEGCA4"
+    "cmt-base2": "0Ho09000000PBEGCA4",
+    "named-credential-namespace-access-bug": "0HoJ8000000GmaJKAS",
+    "named-credential-namespace-access-bug@1.0.0-1": "04tJ8000000xA68IAE"
   }
 }
