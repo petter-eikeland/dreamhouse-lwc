@@ -106,6 +106,12 @@
       "path": "issues/named-credential-namespace-access-bug",
       "scopeProfiles": true,
       "versionNumber": "1.0.0.NEXT"
+    },
+    {
+      "path": "issues/object-translation-package-install",
+      "package": "object-translation-package-install",
+      "versionNumber": "0.1.0.NEXT",
+      "scopeProfiles": true
     }
   ],
   "namespace": "",
@@ -123,6 +129,10 @@
     "non-profile-package": "0Ho09000000PBEBCA4",
     "cmt-base2": "0Ho09000000PBEGCA4",
     "named-credential-namespace-access-bug": "0HoJ8000000GmaJKAS",
-    "named-credential-namespace-access-bug@1.0.0-1": "04tJ8000000xA68IAE"
+    "named-credential-namespace-access-bug@1.0.0-1": "04tJ8000000xA68IAE",
+    "named-credential-namespace-access-bug@1.0.0-2": "04tJ8000000xA6DIAU",
+    "object-translation-package-install": "0HoJ8000000GmaOKAS",
+    "object-translation-package-install@0.1.0-1": "04tJ8000000xA6IIAU",
+    "object-translation-package-install@0.1.0-2": "04tJ8000000xA6NIAU"
   }
 }
