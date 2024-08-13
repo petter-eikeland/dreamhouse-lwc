@@ -111,6 +111,18 @@
       "path": "issues/object-translation-package-install",
       "package": "object-translation-package-install",
       "versionNumber": "0.1.0.NEXT",
+      "scopeProfiles": true,
+      "dependencies": [
+        {
+          "package": "object-translation-custom-fields",
+          "versionNumber": "0.1.0.LATEST"
+        }
+      ]
+    },
+    {
+      "path": "issues/object-translation-custom-fields",
+      "package": "object-translation-custom-fields",
+      "versionNumber": "0.1.0.NEXT",
       "scopeProfiles": true
     }
   ],
@@ -133,6 +145,7 @@
     "named-credential-namespace-access-bug@1.0.0-2": "04tJ8000000xA6DIAU",
     "object-translation-package-install": "0HoJ8000000GmaOKAS",
     "object-translation-package-install@0.1.0-1": "04tJ8000000xA6IIAU",
-    "object-translation-package-install@0.1.0-2": "04tJ8000000xA6NIAU"
+    "object-translation-package-install@0.1.0-2": "04tJ8000000xA6NIAU",
+    "object-translation-custom-fields": "0HoJ8000000GmaTKAS"
   }
 }
