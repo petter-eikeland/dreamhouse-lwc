@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkflowRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Change User Alias</fullName>
+    <actions>
+        <name>Change_User_Alias</name>
+        <type>FieldUpdate</type>
+    </actions>
+    <active>false</active>
+    <formula>ISCHANGED(Alias)</formula>
+    <triggerType>onAllChanges</triggerType>
+</WorkflowRule>

@@ -146,6 +146,14 @@
     "object-translation-package-install": "0HoJ8000000GmaOKAS",
     "object-translation-package-install@0.1.0-1": "04tJ8000000xA6IIAU",
     "object-translation-package-install@0.1.0-2": "04tJ8000000xA6NIAU",
-    "object-translation-custom-fields": "0HoJ8000000GmaTKAS"
-  }
+    "object-translation-custom-fields": "0HoJ8000000GmaTKAS",
+    "object-translation-custom-fields@0.1.0-1": "04tJ8000000xA6SIAU",
+    "object-translation-package-install@0.1.0-3": "04tJ8000000xA6XIAU",
+    "object-translation-custom-fields@0.1.0-2": "04tJ8000000xA6cIAE",
+    "object-translation-package-install@0.1.0-4": "04tJ8000000xA6hIAE",
+    "object-translation-package-install@0.1.0-5": "04tJ8000000xA71IAE"
+  },
+  "sourceBehaviorOptions": [
+    "decomposeWorkflowBeta"
+  ]
 }
