@@ -15,3 +15,10 @@ force-app/*
 *LoggerAdmin.permissionset-meta.xml
 issues/exclamation-ignore-bug/objects
 !issues/exclamation-ignore-bug/objects/Account/fields/TestField1__c.field-meta.xml
+
+# Added by Illuminated Cloud
+/.illuminatedCloud/
+**/*.ts
+**/tsconfig*.json
+**/*.tsbuildinfo
+**/eslint.config.mjs
